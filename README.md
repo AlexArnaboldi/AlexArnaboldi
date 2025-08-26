@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Alex Arnaboldi
 
-<!--
-**AlexArnaboldi/AlexArnaboldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
 
-Here are some ideas to get you started:
+Mi chiamo Alex Arnaboldi, e arrivo da un background artistico che mi ha insegnato a guardare il mondo con occhi curiosi e creativi. Dopo anni ho deciso di trasformare la mia passione per i videogiochi in una carriera concreta, studiando Game Programming presso la Digital Bros Game Academy.
+Durante il mio percorso ho scoperto quanto mi entusiasma dare vita a mondi interattivi, scrivere codice che trasforma idee in esperienze, e affrontare le sfide tecniche che rendono un gioco davvero coinvolgente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Linguaggi ed Engine
+
+-  **Unreal Engine** con **C++**
+-  **Unity** con **C#**
+
+## 🚀 Progetti
+
+- 🗡️ **Game**: Soul-like RPG action
+- 🧩 **Shadowloop**: Puzzle horror in prima persona
+- 🏒 **Air Hockey**: Progetto accademico basato sulla fisica
+- 🔫 **Shooting Multiplayer**: Progetto accademico sul networking
+- 🌋 **The Floor is Lava**: Platforming accademico
+- 🕹️ **Retro Game Collection**: Rivisitazione di classici arcade
+
+## 📚 Cosa sto studiando
+
+Attualmente mi sto approfondendo in:
+- Physics and Math Programming
+- Combat System and Souls-like
+
+## 📘 Corsi Online Preferiti
+
+Sto seguendo e completando diversi corsi focalizzati su Unreal Engine e Game Development:
+
+- 🎮 *Unreal Engine 5 C++ The Ultimate Game Developer Course* – Stephen Ulibarri (completato)
+- 🧠 *Math for Video Games: The Fastest Way To Get Smarter At Math* – GameDev.tv Team, Ben Tristem, Gary Pettie 
+- 🔫 *Unreal Engine 5 C++ Multiplayer Shooter* – Stephen Ulibarri
+- 🧱 *Unreal Engine 5 C++ Game Development (Updated 5.6)* – GameDev.tv Team, Ben Tristem, Kaan Alayaz
+
+Questi corsi mi stanno aiutando a consolidare le basi e approfondire aspetti avanzati come il multiplayer, la matematica applicata al gameplay.
+
+## 🌱 Al di fuori del codice
+
+Amo esplorare la natura, andare ad allenarmi, giocare a pallavolo e ovviamente sviluppare/giocare ai videogiochi
+
+---
+
+📫 **Contattami**: [LinkedIn](https://www.linkedin.com/in/alex-arnaboldi-127492363)  
+🗂️ **email**: alex.arnaboldi97@hotmail.com
