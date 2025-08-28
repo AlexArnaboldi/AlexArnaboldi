@@ -22,8 +22,8 @@ Durante il mio percorso ho scoperto quanto mi entusiasma dare vita a mondi inter
 ## 📚 Cosa sto studiando
 
 Attualmente mi sto approfondendo in:
+- Combat System and Souls-like 
 - Physics and Math Programming
-- Combat System and Souls-like
 
 ## 📘 Corsi Online Preferiti
 
