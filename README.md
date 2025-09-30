@@ -10,33 +10,33 @@ Durante il mio percorso ho scoperto quanto mi entusiasmi dare sfogo alla creativ
 -  **Unreal Engine** con **C++**
 -  **Unity** con **C#**
 
-## 🚀 Progetti
+##  Progetti
 
-- 🗡️ **Game**: Soul-like RPG action
-- 🧩 **Shadowloop**: Puzzle horror in prima persona
-- 🏒 **Air Hockey**: Progetto accademico basato sulla fisica
-- 🔫 **Shooting Multiplayer**: Progetto accademico sul networking
-- 🌋 **The Floor is Lava**: Platforming accademico
-- 🕹️ **Retro Game Collection**: Rivisitazione di classici arcade
+-  **Golden Souls**: Soul-like RPG action
+-  **Shadowloop**: Puzzle horror in prima persona
+-  **Air Hockey**: Progetto accademico basato sulla fisica
+-  **Shooting Multiplayer**: Progetto accademico sul networking
+-  **The Floor is Lava**: Platforming accademico
+-  **Retro Game Collection**: Rivisitazione di classici arcade
 
-## 📚 Cosa sto studiando
+##  Cosa sto studiando
 
 Attualmente mi sto approfondendo in:
 - Combat System and Souls-like 
 - Physics and Math Programming
 
-## 📘 Corsi Online Preferiti
+##  Corsi Online Preferiti
 
 Sto seguendo e completando diversi corsi focalizzati su Unreal Engine e Game Development:
 
-- 🎮 *Unreal Engine 5 C++ The Ultimate Game Developer Course* – Stephen Ulibarri (completato)
-- 🧠 *Math for Video Games: The Fastest Way To Get Smarter At Math* – GameDev.tv Team, Ben Tristem, Gary Pettie 
-- 🔫 *Unreal Engine 5 C++ Multiplayer Shooter* – Stephen Ulibarri
-- 🧱 *Unreal Engine 5 C++ Game Development (Updated 5.6)* – GameDev.tv Team, Ben Tristem, Kaan Alayaz
+-  *Unreal Engine 5 C++ The Ultimate Game Developer Course* – Stephen Ulibarri (completato)
+-  *Math for Video Games: The Fastest Way To Get Smarter At Math* – GameDev.tv Team, Ben Tristem, Gary Pettie 
+-  *Unreal Engine 5 C++ Multiplayer Shooter* – Stephen Ulibarri
+-  *Unreal Engine 5 C++ Game Development (Updated 5.6)* – GameDev.tv Team, Ben Tristem, Kaan Alayaz
 
 Questi corsi mi stanno aiutando a consolidare le basi e approfondire aspetti avanzati come il multiplayer, la matematica applicata al gameplay.
 
-## 🌱 Al di fuori del codice
+##  Al di fuori del codice
 
 Amo esplorare la natura, andare ad allenarmi, giocare a pallavolo e ovviamente sviluppare/giocare ai videogiochi
 
