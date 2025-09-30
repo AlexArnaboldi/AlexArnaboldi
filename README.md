@@ -2,8 +2,8 @@
 
 ##  About Me
 
-Mi chiamo Alex Arnaboldi, e arrivo da un background artistico che mi ha insegnato a guardare il mondo con occhi curiosi e creativi. Dopo anni ho deciso di trasformare la mia passione per i videogiochi in una carriera concreta, studiando Game Programming presso la Digital Bros Game Academy.
-Durante il mio percorso ho scoperto quanto mi entusiasma dare vita a mondi interattivi, scrivere codice che trasforma idee in esperienze, e affrontare le sfide tecniche che rendono un gioco davvero coinvolgente.
+Mi chiamo Alex Arnaboldi, sono un ragazzo curioso e solare con un background artistico. Dopo anni, ho deciso di trasformare la mia passione per i videogiochi in una carriera concreta, studiando Game Programming presso la Digital Bros Game Academy.
+Durante il mio percorso ho scoperto quanto mi entusiasmi dare sfogo alla creatività attraverso righe di codice, trasformando idee in esperienze interattive. Sono determinato e motivato ad affrontare le sfide tecniche che rendono un gioco davvero coinvolgente.
 
 ##  Linguaggi ed Engine
 
